@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Pranjali! 👋
 
-<!--
-**pranjalishetty99/pranjalishetty99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE Student | Placement 2026  
+💻 Java | Python | SQL | Git | HTML | CSS
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+- Languages: Java, Python, HTML, CSS
+- Database: SQL
+- Tools: Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- 🔗 Dual-mode-mentor-bot
+- 🔗 Multi-person detection,tracking and re-identification
+- 🔗 Playgrasim checker
+
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=pranjalishetty99&show_icons=true)
+
