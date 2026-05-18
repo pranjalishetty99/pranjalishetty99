@@ -2,6 +2,7 @@
 
 🎓 CSE Student | Placement 2026  
 💻 Java | Python | SQL | Git | HTML | CSS
+🚀 GSSoC 2026 Contributor
 
 ## 🔧 Technologies & Tools
 - Languages: Java, Python, HTML, CSS
